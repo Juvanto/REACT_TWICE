@@ -1,0 +1,19 @@
+.container{width:100%;
+           padding:0 0 50px 0;}
+
+.leftCol{text-align:center;}
+
+.introImage{box-shadow: 5px 5px 5px #888888;
+            width:75%;}
+
+.inforItem {width:150px;}
+
+.table{width:85%;}
+.table tr td{padding:8px;}
+.table tr:hover td{background-color: inherit;}
+
+.title{text-align:center;
+       color:RGB(222,49,99);
+       margin:0;
+       font-size:30px;
+       padding-bottom:15px;}

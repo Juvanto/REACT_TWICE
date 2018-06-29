@@ -1,0 +1,4 @@
+export const CHANGE_CURRENTPAGE = 'CHANGE_CURRENTPAGE';
+export const RESET_CURRENTPAGE = 'RESET_CURRENTPAGE';
+export const CHANGE_TAB = 'CHANGE_TAB';
+export const RESET_TAB = 'RESET_TAB';

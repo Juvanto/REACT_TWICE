@@ -1,0 +1,61 @@
+body{	
+	background-color: RGB(240,242,245); 
+}
+
+:global *::selection{
+    background-color: RGB(222,49,99)
+}/*全局样式，选中文字背景色*/
+
+
+.header{height:150px;
+	    padding:0 50px;
+	    background-color: RGB(227,205,181);
+        box-shadow: 0 2px 2px #888888;}
+
+.headerContent{background-image:url('./images/bg.jpg');
+               width:100%;
+               background-repeat:no-repeat;
+               background-position:50% 50%;
+               height:inherit;}
+
+.content{width:1100px;
+         margin:0 auto;
+         padding:15px 0;}
+
+.content :global(.ant-menu-item-selected){
+	color:RGB(222,49,99);
+	background-color:RGB(255,225,235) !important;
+	}
+
+.content :global .ant-menu-item-selected a{
+	color:RGB(222,49,99);
+	}
+
+
+.content :global .ant-menu-item-active{
+	color:RGB(222,49,99) ;
+	background-color:RGB(255,225,235) !important;	
+	}
+
+
+.content :global .ant-menu-item-active a{
+	color:RGB(222,49,99);		
+	}
+
+	
+.content :global .ant-menu-item{	
+	font-size:15px;
+	}
+
+.content :global .ant-menu-item::after{
+    border-right-color:RGB(222,49,99);;
+}
+
+.footer{
+	text-align: center;
+	padding:0 50px;	
+	margin-bottom:100px;
+}
+.footer h1{color:RGB(222,49,99);
+           font-size:30px; }
+

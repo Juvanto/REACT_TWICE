@@ -1,0 +1,29 @@
+.leftCol{text-align:center;}
+.row{min-height:270px;}
+.cover{width:100%;
+       border:1px solid RGB(225,227,230);}      
+.p{margin:0;
+   font-size:10px;}
+.header{padding:0 20px;
+        margin:0;
+        font-size:20px;
+        font-weight:bold;
+        color:RGB(222,49,99)}
+.tracklist{list-style-type:none;
+	       padding:5px 20px;
+           overflow:hidden;}
+.tracklist li{height:30px;
+	          line-height:30px;
+	          width:80%;
+	          font-size:14px;
+              cursor:default;            
+              border-bottom:1px solid RGB(230,230,230);
+              -webkit-user-select: none; /* Chrome/Safari/Opera */
+              -moz-user-select: none; /* Firefox */
+              -ms-user-select: none; /* Internet Explorer/Edge */
+              }
+.tracklist li:hover{background-color:RGB(240,240,240)}
+.tracklist span{padding-right:10px;}
+.played{color:RGB(222,49,99);}
+.audio{width:70%;
+       cursor:pointer;}

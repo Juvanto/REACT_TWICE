@@ -1,0 +1,26 @@
+.img{width:200px;
+     padding:5px;
+     margin:5px;
+     border:2px solid RGB(225,227,230);
+     background-color: RGB(240,242,245);
+     border-radius: 5px;
+     cursor:pointer;}
+.img:hover{border:2px solid RGB(222,49,99);}
+.imgContainer{text-align:center;
+             list-style-type:none;}
+
+.button{width:80px;
+	    height:30px;
+	    background-color:RGB(222,49,99);
+	    color:white;
+	    text-align:center;
+	    line-height: 30px;
+	    border-radius: 5px;
+	    margin:10px;
+	    cursor:pointer;
+	    box-shadow: 2px 2px 0 RGB(252,79,129)}
+.button:hover{text-decoration: underline}
+.button:active{position:relative;
+	           left:2px;
+	           top:2px;
+	           box-shadow:none;}

@@ -1,0 +1,89 @@
+.title{text-align:center;
+       color:RGB(222,49,99);
+       margin:0;
+       font-size:30px;
+       padding-bottom:15px;}
+
+.newsContainer :global .ant-list-item-meta{
+    margin:0;  
+}
+
+.newsContainer :global .ant-list-item-meta-title{
+    font-size:20px;
+    font-weight:bold;
+    line-height:25px;
+    margin-bottom:10px;  
+}
+.newsContainer :global .ant-list-item-meta-title a{
+    color:RGB(50,50,50);  
+}
+.newsContainer :global .ant-list-item-meta-title a:focus{
+    text-decoration: none;
+}
+.newsContainer :global .ant-list-item-meta-title a:hover{
+    color:RGB(222,49,99);  
+}
+.newsContainer :global .ant-list-item-content{
+	font-size:16px;
+}
+.newsContainer :global .ant-list-item-extra{
+	margin-left:30px;
+}
+
+
+
+.img{width:200px;
+	 height:150px;
+	 background-size:100%;
+	 background-repeat:no-repeat; 
+    }
+.newsContent{text-align:justify;}
+
+
+
+
+.newsContainer :global .ant-pagination-item-active{
+	border-color:RGB(222,49,99);
+	background-color: RGB(222,49,99);
+}
+.newsContainer :global .ant-pagination-item-active a{
+	color:#fff;
+}
+.newsContainer :global .ant-pagination-item-active:hover a{
+	color:#fff !important;
+	text-decoration:underline;
+}
+
+
+.newsContainer :global .ant-pagination-item:hover{
+	border-color:RGB(222,49,99);
+	background-color: RGB(222,49,99);
+	color:#fff;
+}
+.newsContainer :global .ant-pagination-item:hover a{
+	color:#fff;
+}
+
+
+.newsContainer :global .ant-pagination-prev:hover .ant-pagination-item-link{
+	border-color:RGB(222,49,99);
+	background-color: RGB(222,49,99);
+	color:#fff;}
+.newsContainer :global .ant-pagination-prev:focus .ant-pagination-item-link{
+	border-color:RGB(222,49,99);
+	background-color: RGB(222,49,99);
+	color:#fff;}
+
+
+.newsContainer :global .ant-pagination-next:focus .ant-pagination-item-link{
+	border-color:RGB(222,49,99);
+	background-color: RGB(222,49,99);
+	color:#fff;
+}
+.newsContainer :global .ant-pagination-next:hover .ant-pagination-item-link{
+	border-color:RGB(222,49,99);
+	background-color: RGB(222,49,99);
+	color:#fff;
+}
+
+.pag{margin:10px 0}

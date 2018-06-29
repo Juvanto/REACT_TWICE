@@ -1,0 +1,19 @@
+.imgSlide{width:150px;
+	      margin:0 15px;
+	      cursor:pointer;
+	      box-shadow: 3px 3px 3px #888888;}
+
+.imgSlideContainer{	
+	display:inline-block !important;
+}
+
+.pSlide1{
+       margin:10px 0 0 0;
+       font-size:14px;
+       line-height:14px;
+}
+
+.pSlide2{
+       margin:0;
+       font-size:12px;
+}

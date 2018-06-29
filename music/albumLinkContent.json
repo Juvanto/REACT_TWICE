@@ -1,0 +1,440 @@
+{
+	"albumlinkcontent":[
+	  {
+      "id":"1",
+      "title":"THE STORY BEGIN",
+      "date":"2015-10-20",
+      "cover":"./images/1.jpg",
+      "tracklist":[
+        {"tracknumber":"01",
+          "tracktitle":"OOH-AHH하게(like OOH-AHH)",
+          "url":"http://music.163.com/song/media/outer/url?id=35617556.mp3"
+        },
+        {"tracknumber":"02",
+          "tracktitle":"다시 해줘(再一次)",
+          "url":"http://music.163.com/song/media/outer/url?id=35617557.mp3"
+        },
+        {"tracknumber":"03",
+          "tracktitle":"미쳤나봐(令人疯狂)",
+          "url":"http://music.163.com/song/media/outer/url?id=35617558.mp3"
+        },
+        {"tracknumber":"04",
+          "tracktitle":"Truth",
+          "url":"http://music.163.com/song/media/outer/url?id=35618563.mp3"
+        },
+        {"tracknumber":"05",
+          "tracktitle":"Candy Boy",
+          "url":"http://music.163.com/song/media/outer/url?id=35618562.mp3"
+        },
+        {"tracknumber":"06",
+          "tracktitle":"Like a Fool",
+          "url":"http://music.163.com/song/media/outer/url?id=35617555.mp3"
+        }
+      ]
+    },
+    {
+      "id":"2",
+      "title":"PAGE TWO",
+      "date":"2016-04-25",
+      "cover":"./images/2.jpg",
+      "tracklist":[
+        {"tracknumber":"01",
+          "tracktitle":"CHEER UP",
+          "url":"http://music.163.com/song/media/outer/url?id=410801515.mp3"
+        },
+        {"tracknumber":"02",
+          "tracktitle":"소중한 사랑(珍贵的爱)",
+          "url":"http://music.163.com/song/media/outer/url?id=410801516.mp3"
+        },
+        {"tracknumber":"03",
+          "tracktitle":"Touchdown",
+          "url":"http://music.163.com/song/media/outer/url?id=410801518.mp3"
+        },
+        {"tracknumber":"04",
+          "tracktitle":"툭하면 톡(动不动就)",
+          "url":"http://music.163.com/song/media/outer/url?id=410801517.mp3"
+        },
+        {"tracknumber":"05",
+          "tracktitle":"Woohoo",
+          "url":"http://music.163.com/song/media/outer/url?id=410802493.mp3"
+        },
+        {"tracknumber":"06",
+          "tracktitle":"Headphone 써(用耳机)",
+          "url":"http://music.163.com/song/media/outer/url?id=410802494.mp3"
+        }
+      ]
+    },
+    {
+      "id":"3",
+      "title":"TWICEcoaster:LANE 1",
+      "date":"2016-10-24",
+      "cover":"./images/3.jpg",
+      "tracklist":[
+        {"tracknumber":"01",
+          "tracktitle":"TT",
+          "url":"http://music.163.com/song/media/outer/url?id=436699534.mp3"
+        },
+        {"tracknumber":"02",
+          "tracktitle":"1 TO 10",
+          "url":"http://music.163.com/song/media/outer/url?id=436698523.mp3"
+        },
+        {"tracknumber":"03",
+          "tracktitle":"PONYTAIL",
+          "url":"http://music.163.com/song/media/outer/url?id=436698524.mp3"
+        },
+        {"tracknumber":"04",
+          "tracktitle":"JELLY JELLY",
+          "url":"http://music.163.com/song/media/outer/url?id=436698525.mp3"
+        },
+        {"tracknumber":"05",
+          "tracktitle":"PIT-A-PAT",
+          "url":"http://music.163.com/song/media/outer/url?id=436698526.mp3"
+        },
+        {"tracknumber":"06",
+          "tracktitle":"NEXT PAGE",
+          "url":"http://music.163.com/song/media/outer/url?id=436698527.mp3"
+        },
+        {"tracknumber":"07",
+          "tracktitle":"ONE IN A MILLION",
+          "url":"http://music.163.com/song/media/outer/url?id=436698528.mp3" 
+        }
+      ]
+    },
+    {
+      "id":"4",
+      "title":"TWICEcoaster:LANE 2",
+      "date":"2017-02-20",
+      "cover":"./images/4.jpg",
+       "tracklist":[
+        {"tracknumber":"01",
+          "tracktitle":"KNOCK KNOCK",
+          "url":"http://music.163.com/song/media/outer/url?id=460514685.mp3"
+        },
+        {"tracknumber":"02",
+          "tracktitle":"녹아요(融化)",
+          "url":"http://music.163.com/song/media/outer/url?id=460514686.mp3"
+        },
+        {"tracknumber":"03",
+          "tracktitle":"TT",
+          "url":"http://music.163.com/song/media/outer/url?id=460628454.mp3"
+        },
+        {"tracknumber":"04",
+          "tracktitle":"1 TO 10",
+          "url":"http://music.163.com/song/media/outer/url?id=460628455.mp3"
+        },
+        {"tracknumber":"05",
+          "tracktitle":"PONYTAIL",
+          "url":"http://music.163.com/song/media/outer/url?id=460514687.mp3"
+        },
+        {"tracknumber":"06",
+          "tracktitle":"JELLY JELLY",
+          "url":"http://music.163.com/song/media/outer/url?id=460514688.mp3"
+        },
+        {"tracknumber":"07",
+          "tracktitle":"PIT-A-PAT",
+          "url":"http://music.163.com/song/media/outer/url?id=460514689.mp3" 
+        },
+        {"tracknumber":"08",
+          "tracktitle":"NEXT PAGE",
+          "url":"http://music.163.com/song/media/outer/url?id=460514690.mp3"
+        },
+        {"tracknumber":"09",
+          "tracktitle":"ONE IN A MILLION",
+          "url":"http://music.163.com/song/media/outer/url?id=460514691.mp3" 
+        }
+      ]
+    },
+    {
+      "id":"5",
+      "title":"SIGNAL",
+      "date":"2017-05-15",
+      "cover":"./images/5.jpg",
+      "tracklist":[
+        {"tracknumber":"01",
+          "tracktitle":"SIGNAL",
+          "url":"http://music.163.com/song/media/outer/url?id=478686128.mp3"
+        },
+        {"tracknumber":"02",
+          "tracktitle":"하루에 세번(一天三次)",
+          "url":"http://music.163.com/song/media/outer/url?id=478686129.mp3"
+        },
+        {"tracknumber":"03",
+          "tracktitle":"ONLY 너(只有你)",
+          "url":"http://music.163.com/song/media/outer/url?id=478686130.mp3"
+        },
+        {"tracknumber":"04",
+          "tracktitle":"HOLD ME TIGHT",
+          "url":"http://music.163.com/song/media/outer/url?id=478686131.mp3"
+        },
+        {"tracknumber":"05",
+          "tracktitle":"EYE EYE EYES",
+          "url":"http://music.163.com/song/media/outer/url?id=478686132.mp3"
+        },
+        {"tracknumber":"06",
+          "tracktitle":"SOMEONE LIKE ME",
+          "url":"http://music.163.com/song/media/outer/url?id=478686133.mp3"
+        }
+      ]
+    },
+    {
+      "id":"6",
+      "title":"#TWICE",
+      "date":"2017-06-14",
+      "cover":"./images/6.jpg",
+      "tracklist":[
+        {"tracknumber":"01",
+          "tracktitle":"Like OOH-AHH(Japanese Ver.)",
+          "url":"http://music.163.com/song/media/outer/url?id=486922567.mp3"
+        },
+        {"tracknumber":"02",
+          "tracktitle":"CHEER UP(Japanese Ver.)",
+          "url":"http://music.163.com/song/media/outer/url?id=486922568.mp3"
+        },
+        {"tracknumber":"03",
+          "tracktitle":"TT(Japanese Ver.)",
+          "url":"http://music.163.com/song/media/outer/url?id=486922569.mp3"
+        },
+        {"tracknumber":"04",
+          "tracktitle":"KNOCK KNOCK(Japanese Ver.)",
+          "url":"http://music.163.com/song/media/outer/url?id=486922570.mp3"
+        },
+        {"tracknumber":"05",
+          "tracktitle":"SIGNAL(Japanese Ver.)",
+          "url":"http://music.163.com/song/media/outer/url?id=484040272.mp3"
+        }        
+      ]
+    },
+    {
+      "id":"7",
+      "title":"One More Time",
+      "date":"2017-10-18",
+      "cover":"./images/7.jpg",
+      "tracklist":[
+        {"tracknumber":"01",
+          "tracktitle":"One More Time",
+          "url":"http://music.163.com/song/media/outer/url?id=512504353.mp3"
+        },
+        {"tracknumber":"02",
+          "tracktitle":"Luv Me",
+          "url":"http://music.163.com/song/media/outer/url?id=513502795.mp3"
+        },
+        {"tracknumber":"03",
+          "tracktitle":"One More Time(Instrumental)",
+          "url":"http://music.163.com/song/media/outer/url?id=513502796.mp3"
+        },
+        {"tracknumber":"04",
+          "tracktitle":"Luv Me(Instrumental)",
+          "url":"http://music.163.com/song/media/outer/url?id=513502797.mp3"
+        }
+      ]
+    },
+    {
+      "id":"8",
+      "title":"Twicetagram",
+      "date":"2017-10-30",
+      "cover":"./images/8.jpg",
+      "tracklist":[
+        {"tracknumber":"01",
+          "tracktitle":"LIKEY",
+          "url":"http://music.163.com/song/media/outer/url?id=515647526.mp3"
+        },
+        {"tracknumber":"02",
+          "tracktitle":"거북이(乌龟)",
+          "url":"http://music.163.com/song/media/outer/url?id=515647527.mp3"
+        },
+        {"tracknumber":"03",
+          "tracktitle":"Missing U",
+          "url":"http://music.163.com/song/media/outer/url?id=515647528.mp3"
+        },
+        {"tracknumber":"04",
+          "tracktitle":"WOW",
+          "url":"http://music.163.com/song/media/outer/url?id=515647529.mp3"
+        },
+        {"tracknumber":"05",
+          "tracktitle":"FFW",
+          "url":"http://music.163.com/song/media/outer/url?id=515647530.mp3"
+        },
+        {"tracknumber":"06",
+          "tracktitle":"DING DONG",
+          "url":"http://music.163.com/song/media/outer/url?id=515647531.mp3"
+        },
+        {"tracknumber":"07",
+          "tracktitle":"24/7",
+          "url":"http://music.163.com/song/media/outer/url?id=515647532.mp3" 
+        },
+        {"tracknumber":"08",
+          "tracktitle":"날 바라바라봐(看看我吧)",
+          "url":"http://music.163.com/song/media/outer/url?id=515647533.mp3"
+        },
+        {"tracknumber":"09",
+          "tracktitle":"ROLLIN'",
+          "url":"http://music.163.com/song/media/outer/url?id=515647534.mp3" 
+        },
+        {"tracknumber":"10",
+          "tracktitle":"LOVE LINE'",
+          "url":"http://music.163.com/song/media/outer/url?id=515647535.mp3" 
+        },
+        {"tracknumber":"11",
+          "tracktitle":"힘내!(DON'T GIVE UP)",
+          "url":"http://music.163.com/song/media/outer/url?id=515647536.mp3" 
+        },
+        {"tracknumber":"12",
+          "tracktitle":"널 내게 담아(你填满我的心)",
+          "url":"http://music.163.com/song/media/outer/url?id=515647537.mp3" 
+        },
+        {"tracknumber":"13",
+          "tracktitle":"잘자요 굿나잇(好好睡, 晚安)",
+          "url":"http://music.163.com/song/media/outer/url?id=515647538.mp3" 
+        }
+      ]
+    },
+    {
+      "id":"9",
+      "title":"Merry&Happy",
+      "date":"2017-12-11",
+      "cover":"./images/9.jpg",
+      "tracklist":[
+        {"tracknumber":"01",
+          "tracktitle":"Heart Shaker",
+          "url":"http://music.163.com/song/media/outer/url?id=523035949.mp3"
+        },
+        {"tracknumber":"02",
+          "tracktitle":"Merry&Happy",
+          "url":"http://music.163.com/song/media/outer/url?id=523035950.mp3"
+        },
+        {"tracknumber":"03",
+          "tracktitle":"LIKEY",
+          "url":"http://music.163.com/song/media/outer/url?id=523658574.mp3"
+        },
+        {"tracknumber":"04",
+          "tracktitle":"거북이(乌龟)",
+          "url":"http://music.163.com/song/media/outer/url?id=523658575.mp3"
+        },
+        {"tracknumber":"05",
+          "tracktitle":"Missing U",
+          "url":"http://music.163.com/song/media/outer/url?id=523658576.mp3"
+        },
+        {"tracknumber":"06",
+          "tracktitle":"WOW",
+          "url":"http://music.163.com/song/media/outer/url?id=523658577.mp3"
+        },
+        {"tracknumber":"07",
+          "tracktitle":"FFW",
+          "url":"http://music.163.com/song/media/outer/url?id=523658578.mp3"
+        },
+        {"tracknumber":"08",
+          "tracktitle":"DING DONG",
+          "url":"http://music.163.com/song/media/outer/url?id=523658579.mp3"
+        },
+        {"tracknumber":"09",
+          "tracktitle":"24/7",
+          "url":"http://music.163.com/song/media/outer/url?id=523658580.mp3" 
+        },
+        {"tracknumber":"10",
+          "tracktitle":"날 바라바라봐(看看我吧)",
+          "url":"http://music.163.com/song/media/outer/url?id=523658581.mp3"
+        },
+        {"tracknumber":"11",
+          "tracktitle":"ROLLIN'",
+          "url":"http://music.163.com/song/media/outer/url?id=523658582.mp3" 
+        },
+        {"tracknumber":"12",
+          "tracktitle":"LOVE LINE",
+          "url":"http://music.163.com/song/media/outer/url?id=523658583.mp3" 
+        },
+        {"tracknumber":"13",
+          "tracktitle":"힘내!(DON'T GIVE UP)",
+          "url":"http://music.163.com/song/media/outer/url?id=523658584.mp3" 
+        },
+        {"tracknumber":"14",
+          "tracktitle":"널 내게 담아(你填满我的心)",
+          "url":"http://music.163.com/song/media/outer/url?id=523658585.mp3" 
+        },
+        {"tracknumber":"15",
+          "tracktitle":"잘자요 굿나잇(好好睡, 晚安)",
+          "url":"http://music.163.com/song/media/outer/url?id=523658586.mp3" 
+        }
+      ]
+    },
+    {
+      "id":"10",
+      "title":"Candy Pop",
+      "date":"2018-02-07",
+      "cover":"./images/10.jpg",
+      "tracklist":[
+        {"tracknumber":"01",
+          "tracktitle":"Candy Pop",
+          "url":"http://music.163.com/song/media/outer/url?id=529546878.mp3"
+        },
+        {"tracknumber":"02",
+          "tracktitle":"BRAND NEW GIRL",
+          "url":"http://music.163.com/song/media/outer/url?id=529546880.mp3"
+        },
+        {"tracknumber":"03",
+          "tracktitle":"Candy Pop(Instrumental)",
+          "url":"http://music.163.com/song/media/outer/url?id=529546881.mp3"
+        },
+        {"tracknumber":"04",
+          "tracktitle":"BRAND NEW GIRL(Instrumental)",
+          "url":"http://music.163.com/song/media/outer/url?id=529546882.mp3"
+        }
+      ]
+    },
+    {
+      "id":"11",
+      "title":"What is Love?",
+      "date":"2018-04-09",
+      "cover":"./images/11.jpg",
+      "tracklist":[
+        {"tracknumber":"01",
+          "tracktitle":"What is Love?",
+          "url":"http://music.163.com/song/media/outer/url?id=551340976.mp3"
+        },
+        {"tracknumber":"02",
+          "tracktitle":"SWEET TALKER",
+          "url":"http://music.163.com/song/media/outer/url?id=551340977.mp3"
+        },
+        {"tracknumber":"03",
+          "tracktitle":"HO!",
+          "url":"http://music.163.com/song/media/outer/url?id=551340978.mp3"
+        },
+        {"tracknumber":"04",
+          "tracktitle":"DEJAVU",
+          "url":"http://music.163.com/song/media/outer/url?id=551340979.mp3"
+        },
+        {"tracknumber":"05",
+          "tracktitle":"SAY YES",
+          "url":"http://music.163.com/song/media/outer/url?id=551340980.mp3"
+        },
+        {"tracknumber":"06",
+          "tracktitle":"STUCK(CD Only)",
+          "url":"http://music.163.com/song/media/outer/url?id=551340981.mp3"
+        }
+      ]
+    },
+    {
+      "id":"12",
+      "title":"Wake Me Up",
+      "date":"2018-05-16",
+      "cover":"./images/12.jpg",
+      "tracklist":[
+        {"tracknumber":"01",
+          "tracktitle":"Wake Me Up",
+          "url":"http://music.163.com/song/media/outer/url?id=553328719.mp3"
+        },
+        {"tracknumber":"02",
+          "tracktitle":"Pink Lemonade",
+          "url":"http://music.163.com/song/media/outer/url?id=555347343.mp3"
+        },
+        {"tracknumber":"03",
+          "tracktitle":"Wake Me Up(Instrumental)",
+          "url":"http://music.163.com/song/media/outer/url?id=555349190.mp3"
+        },
+        {"tracknumber":"04",
+          "tracktitle":"Pink Lemonade(Instrumental)",
+          "url":"http://music.163.com/song/media/outer/url?id=555349191.mp3"
+        }
+      ]
+    }    
+	]
+}

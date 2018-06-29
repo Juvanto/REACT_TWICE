@@ -1,0 +1,124 @@
+{
+  "musicvideo":[
+  
+  {
+  	"id":"1",
+    "title":"Like OOH-AHH",
+  	"sourcelink":"https://www.bilibili.com/video/av4691589",
+  	"cover":"./images/musicvideo/1.webp",
+  	"duration":"04:31"
+  },
+  {
+  	"id":"2",
+    "title":"Cheer Up",
+  	"sourcelink":"https://www.bilibili.com/video/av4463263",
+  	"cover":"./images/musicvideo/2.webp",
+  	"duration":"04:00"
+  },
+  {
+  	"id":"3",
+    "title":"TT",
+  	"sourcelink":"https://www.bilibili.com/video/av6802731",
+  	"cover":"./images/musicvideo/3.webp",
+  	"duration":"04:13"
+  },
+  {
+  	"id":"4",
+    "title":"KNOCK KNOCK",
+  	"sourcelink":"https://www.bilibili.com/video/av8720642",
+  	"cover":"./images/musicvideo/4.webp",
+  	"duration":"04:13"
+  },
+  {
+  	"id":"5",
+    "title":"Signal",
+  	"sourcelink":"https://www.bilibili.com/video/av10582025",
+  	"cover":"./images/musicvideo/5.webp",
+  	"duration":"04:18"
+  },
+  {
+  	"id":"6",
+    "title":"TT(Japanese Ver.)",
+  	"sourcelink":"https://www.bilibili.com/video/av11493794",
+  	"cover":"./images/musicvideo/6.webp",
+  	"duration":"04:11"
+  },
+  {
+  	"id":"7",
+    "title":"One More Time",
+  	"sourcelink":"https://www.bilibili.com/video/av15358970",
+  	"cover":"./images/musicvideo/7.webp",
+  	"duration":"03:01"
+  },
+  {
+  	"id":"8",
+    "title":"LIKEY",
+  	"sourcelink":"https://www.bilibili.com/video/av15869784",
+  	"cover":"./images/musicvideo/8.webp",
+  	"duration":"03:41"
+  },
+  {
+  	"id":"9",
+    "title":"Merry&Happy",
+  	"sourcelink":"https://www.bilibili.com/video/av17487376",
+  	"cover":"./images/musicvideo/9.webp",
+  	"duration":"03:41"
+  },
+  {
+  	"id":"10",
+    "title":"Candy Pop",
+  	"sourcelink":"https://www.bilibili.com/video/av8377648/?p=11",
+  	"cover":"./images/musicvideo/10.webp",
+  	"duration":"04:25"
+  },
+  {
+  	"id":"11",
+    "title":"Brand New Girl",
+  	"sourcelink":"https://www.bilibili.com/video/av8377648/?p=12",
+  	"cover":"./images/musicvideo/11.webp",
+  	"duration":"03:52"
+  },
+  {
+  	"id":"12",
+    "title":"What is Love?",
+  	"sourcelink":"https://www.bilibili.com/video/av21755430",
+  	"cover":"./images/musicvideo/12.webp",
+  	"duration":"03:43"
+  },
+  {
+  	"id":"13",
+    "title":"Wake Me Up",
+  	"sourcelink":"https://www.bilibili.com/video/av8377648/?p=14",
+  	"cover":"./images/musicvideo/13.webp",
+  	"duration":"03:59"
+  }
+  ],
+
+  "live":[
+    {
+      "id":"1",
+      "title":"180525 TWICE-What is Love+Wake Me Up@MUSIC STATION CUT",
+      "sourcelink":"https://www.bilibili.com/video/av23934831",
+      "cover":"./images/live/1.webp",
+      "duration":"04:14"
+    }  
+  ],
+  "variety":[
+    {
+      "id":"1",
+      "title":"170520 JTBC 认识的哥哥 E76",
+      "sourcelink":"https://www.bilibili.com/video/av13991100",
+      "cover":"./images/variety/1.webp",
+      "duration":"93:46"
+    }
+  ],
+  "others":[
+    {
+      "id":"1",
+      "title":"TWICE撒娇三行诗",
+      "sourcelink":"https://www.bilibili.com/video/av23506256",
+      "cover":"./images/others/1.webp",
+      "duration":"12:25"
+    }
+ ] 
+} 

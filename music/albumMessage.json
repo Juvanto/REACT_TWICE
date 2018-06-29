@@ -1,0 +1,76 @@
+{
+	"albummessage":[
+	  {
+      "id":"1",
+      "title":"THE STORY BEGIN",
+      "date":"2015-10-20",
+      "cover":"./images/1.jpg"
+    },
+    {
+      "id":"2",
+      "title":"PAGE TWO",
+      "date":"2016-04-25",
+      "cover":"./images/2.jpg"
+    },
+    {
+      "id":"3",
+      "title":"TWICEcoaster:LANE 1",
+      "date":"2016-10-24",
+      "cover":"./images/3.jpg"
+    },
+    {
+      "id":"4",
+      "title":"TWICEcoaster:LANE 2",
+      "date":"2017-02-20",
+      "cover":"./images/4.jpg"
+    },
+    {
+      "id":"5",
+      "title":"SIGNAL",
+      "date":"2017-05-15",
+      "cover":"./images/5.jpg"
+    },
+    {
+      "id":"6",
+      "title":"#TWICE",
+      "date":"2017-06-14",
+      "cover":"./images/6.jpg"
+    },
+    {
+      "id":"7",
+      "title":"One More Time",
+      "date":"2017-10-18",
+      "cover":"./images/7.jpg"
+    },
+    {
+      "id":"8",
+      "title":"Twicetagram",
+      "date":"2017-10-30",
+      "cover":"./images/8.jpg"
+    },
+    {
+      "id":"9",
+      "title":"Merry&Happy",
+      "date":"2017-12-11",
+      "cover":"./images/9.jpg"
+    },
+    {
+      "id":"10",
+      "title":"Candy Pop",
+      "date":"2018-02-07",
+      "cover":"./images/10.jpg"
+    },
+    {
+      "id":"11",
+      "title":"What is Love?",
+      "date":"2018-04-09",
+      "cover":"./images/11.jpg"
+    },
+    {
+      "id":"12",
+      "title":"Wake Me Up",
+      "date":"2018-05-16",
+      "cover":"./images/12.jpg"
+    }    
+	]
+}

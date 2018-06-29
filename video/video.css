@@ -1,0 +1,66 @@
+.title{text-align:center;
+       color:RGB(222,49,99);
+       margin:0;
+       font-size:30px;
+       padding-bottom:15px;}
+
+.videoContainer :global .ant-tabs-tab:hover{
+        color:RGB(222,49,99);
+}
+
+.videoContainer :global .ant-tabs-tab-active{
+        color:RGB(222,49,99); 
+        font-weight:normal;      
+}
+.videoContainer :global .ant-tabs-ink-bar{
+        background-color:RGB(222,49,99);              
+}
+
+
+
+.videoContainer :global .ant-pagination-item-active{
+	border-color:RGB(222,49,99);
+	background-color: RGB(222,49,99);
+}
+.videoContainer :global .ant-pagination-item-active a{
+	color:#fff;
+}
+.videoContainer :global .ant-pagination-item-active:hover a{
+	color:#fff !important;
+	text-decoration:underline;
+}
+
+
+.videoContainer :global .ant-pagination-item:hover{
+	border-color:RGB(222,49,99);
+	background-color: RGB(222,49,99);
+	color:#fff;
+}
+.videoContainer :global .ant-pagination-item:hover a{
+	color:#fff;
+}
+
+
+.videoContainer :global .ant-pagination-prev:hover .ant-pagination-item-link{
+	border-color:RGB(222,49,99);
+	background-color: RGB(222,49,99);
+	color:#fff;}
+.videoContainer :global .ant-pagination-prev:focus .ant-pagination-item-link{
+	border-color:RGB(222,49,99);
+	background-color: RGB(222,49,99);
+	color:#fff;}
+
+
+.videoContainer :global .ant-pagination-next:focus .ant-pagination-item-link{
+	border-color:RGB(222,49,99);
+	background-color: RGB(222,49,99);
+	color:#fff;
+}
+.videoContainer :global .ant-pagination-next:hover .ant-pagination-item-link{
+	border-color:RGB(222,49,99);
+	background-color: RGB(222,49,99);
+	color:#fff;
+}
+
+.pag{margin:10px 0}
+
